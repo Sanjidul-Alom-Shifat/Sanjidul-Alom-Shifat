@@ -3,7 +3,7 @@
 
 
 # 👨‍💻 About Me ❗
-I’m a junior Front End Web Developer. I have a passion for learning and sharing my knowledCancel changesge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the many years, I created many websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript, Express.js, MongoDB.
+I’m a junior Web Developer. I have a passion for learning and sharing my knowledCancel changesge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the many years, I created many websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript, Express.js, MongoDB.
 
 # 💻Skills
 - 🔰 HTML5 / CSS3 / Tailwind / Bootstrap
